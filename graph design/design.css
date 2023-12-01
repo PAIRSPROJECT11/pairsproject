@@ -1,0 +1,42 @@
+img {
+    display: block;
+    width: 400px;
+    margin: 20px ;
+    height: auto;
+} 
+
+body {
+
+    color: #fff;
+    font-family: 'SpookyFont';
+    margin: 0;
+    background-image: url("https://img.freepik.com/photos-gratuite/texture-mur-stuc-bleu-marine-relief-decoratif-abstrait-grunge-fond-colore-rugueux-grand-angle_1258-28311.jpg?w=1380&t=st=1701329907~exp=1701330507~hmac=579e260bc0a07b16ac4aabe9378c91cba385e9d042e9487177fbfb722d1cf185");
+}
+#image {
+    display: flex;
+   justify-content: center;
+    
+    width: 1500px;
+    margin: 1% ;
+    height: 250px;
+}
+p {
+font-size: xx-large;
+text-align: justify;
+line-height: 1.5;
+padding: 20px 
+}
+
+
+#cadre {
+    border: 3px solid #fcfcfc;
+    padding: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(250, 247, 247);
+}
